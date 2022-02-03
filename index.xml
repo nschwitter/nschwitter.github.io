@@ -13,11 +13,53 @@
     </image>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>https://nschwitter.github.io/cv/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nschwitter.github.io/cv/</guid>
+      <description>&lt;p&gt;Imagine under construction gif from the old internet here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://nschwitter.github.io/teaching/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nschwitter.github.io/teaching/</guid>
+      <description>&lt;h3 id=&#34;masterclass-automated-web-data-collection-q-step-centre-university-of-warwick&#34;&gt;Masterclass: Automated Web Data Collection, Q-step centre, University of Warwick&lt;/h3&gt;
+&lt;p&gt;This one-day workshop introduced students to automated web data collected and provided a hands-on tutorial in R. It covered web scraping of scraping and dynamic pages, automating a browser with RSelenium and the basics of using APIs. Material from 2021 can be found on &lt;a href=&#34;https://github.com/nschwitter/webdata-warwick&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;introduction-to-quantitative-empirical-social-research-university-of-mainz&#34;&gt;Introduction to Quantitative Empirical Social Research, University of Mainz&lt;/h3&gt;
+&lt;p&gt;The course introduced undergraduate students to approaches to and basic concepts in the study of the social sciences, such as hypotheses, experiments, surveys and others. I was a seminar instructor for this course in 2021.&lt;/p&gt;
+&lt;h3 id=&#34;network-analysis-ii-advanced-topics-icpsr-summer-program-university-of-michigan&#34;&gt;Network Analysis II: Advanced Topics, ICPSR Summer Program, University of Michigan&lt;/h3&gt;
+&lt;p&gt;I worked as a TA for the four-week course in advanced network analysis in the summer of 2020 and 2021. The focus of this advanced course was inferential network analysis, including exponential random graph models and its varieties, stochasticactor oriented models, local structure graph models, and their implementation in R.&lt;/p&gt;
+&lt;h3 id=&#34;intermediate-social-analytics-survey-design-and-data-collection-university-of-warwick&#34;&gt;Intermediate Social Analytics: Survey Design and Data Collection, University of Warwick&lt;/h3&gt;
+&lt;p&gt;This course allowed student to conduct their own research proect and analyse and present their previously collected data to answer their research questions. I advised students in the analytical strategy of their individual projects and helped conductings lab sessions with Stata. I worked as a Teaching Assistant for this course in the academic years 2018/19, 2019/20, 2020/21.&lt;/p&gt;
+&lt;h3 id=&#34;intermediate-social-analytics-survey-analysis-and-reporting-university-of-warwick&#34;&gt;Intermediate Social Analytics: Survey Analysis and Reporting, University of Warwick&lt;/h3&gt;
+&lt;p&gt;This course allowed student to conduct their own research project and experience the quantitative research cycle from initial design through to data collection. I supported with syllabus design and held three lectures on the use of the online survey software Qualtrics. I worked as a Teaching Assistant for this course in the academic years 2018/19, 2019/20, 2020/21.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://nschwitter.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nschwitter.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://nschwitter.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nschwitter.github.io/publication/</guid>
+      <description>&lt;h3 id=&#34;peer-reviewed-articles&#34;&gt;Peer-reviewed Articles&lt;/h3&gt;
+&lt;p&gt;Liebe, Ulf and Nicole Schwitter (2021). &lt;a href=&#34;https://academic.oup.com/esr/article/37/3/429/6095710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explaining Ethnic Violence: On the Relevance of Geographic, Social, Economic, and Political Factors in Hate Crimes on Refugees&lt;/a&gt;. &lt;em&gt;European Sociological Review&lt;/em&gt;, 37(3), 429-448.&lt;/p&gt;
+&lt;p&gt;Schwitter, Nicole (2020). &lt;a href=&#34;https://www.cambridge.org/core/journals/ageing-and-society/article/abs/social-capital-in-retirement-villages-a-literature-review/ED05DEE7B796CA02E3330BD50C4E9424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Social capital in retirement villages: A literature review&lt;/a&gt;. &lt;em&gt;Ageing&amp;amp;Society&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Liebe, Ulf, Nicole Schwitter and Andreas Tutić (2019). &lt;a href=&#34;https:/seismoverlag.ch/site/assets/files/3595/oa_szfs_45_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Objective Status, Subjective Status and Prosociality of Swiss Apprentices&lt;/a&gt;. &lt;em&gt;Swiss Journal of Sociology&lt;/em&gt;, 45(1), 57-81.&lt;/p&gt;
+&lt;h3 id=&#34;other-publications&#34;&gt;Other Publications&lt;/h3&gt;
+&lt;p&gt;Schwitter, Nicole and Ulf Liebe (2020). &lt;a href=&#34;https:/policy-practice.oxfam.org.uk/publications/going-digital-web-data-collection-using-twitter-as-an-example-620948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Going Digital: Web data collection using Twitter as an example&lt;/em&gt;&lt;/a&gt;. Oxford: Oxfam GB.&lt;/p&gt;
+&lt;p&gt;Schwitter, Nicole and Ulf Liebe (2019). Twitter Data Analysis. In A. Pretari, &lt;a href=&#34;https:/policy-practice.oxfam.org.uk/publications/active-citizenship-in-tanzania-impact-evaluation-of-the-governance-and-accounta-620855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Active Citizenship in Tanzania: Impact Evaluation of the &amp;lsquo;Governance and Accountability through Digitalization&amp;rsquo; project. Impact Evaluation Report 2017-2019&lt;/em&gt;&lt;/a&gt;: Chapters 3.4 and 4.3. Oxford: Oxfam GB&lt;/p&gt;
+</description>
     </item>
     
   </channel>
