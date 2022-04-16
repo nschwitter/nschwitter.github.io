@@ -1,9 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
   <head>
+    <!-- START GOOGLE ANALYTICS -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-169936602-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-169936602-1");
+    </script>
+    <!-- END GOOGLE ANALYTICS -->
+    
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=0.8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -16,11 +33,8 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="css/all.css" />
+    <link rel="stylesheet" href="css/academicons.css" />
     <link rel="stylesheet" href="css/style.css" />
-	
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-	<script src="https://use.fontawesome.com/42d5c4c96e.js"></script>
-	
     <title>Nicole Schwitter</title>
   </head>
   <body class="d-flex flex-column h-100 bg-light">
@@ -44,13 +58,16 @@
         >
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="research.html">Research</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="teaching.html">Teaching</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">CV</a>
             </li>
           </ul>
         </div>
@@ -62,28 +79,30 @@
     <div class="container-fluid bg-light">
       <div class="row justify-content-center">
         <div class="col-md-6 bg-white rounded border px-5 py-3 my-3">
-          <h3 class="py-3">Welcome!</h3>
-
+          <h3 class="py-3">CV</h3>
           <div class="row">
             <div class="col-md-12 mb-2">
               <p>
-                <img
-                  class="col-md-5 img-fluid ms-md-4 rounded border border-3 float-end"
-                  src="img/avatar.jpg"
-                />
-                <p>I am a PhD student in the Department of Sociology at the <a href="https://warwick.ac.uk/" target="_blank" rel="noopener">University of Warwick</a>. I hold an MA in Sociology from the University of Leipzig and a BA in Social Sciences and Computer Science from the University of Bern.</p>
-<p>My PhD research focuses on the online community Wikipedia. I am interested in the effects offline gatherings between Wikipedians have on their online behaviour, in particular in regard to their contribution, norm-enforcing and voting behaviour in the context of their social network. This research project is partly funded by a <a href="https://meta.wikimedia.org/wiki/Grants:Project/nschwitter/The_Role_of_Offline_Ties_of_Wikipedians" target="_blank" rel="noopener">Wikimedia Project Grant</a>.</p>
-<p>Besides my PhD research, I have also been working on topics regarding social status and prosociality, ethnic violence, and using web data in the social sciences. I have been working with Oxfam GB and their impact evaluation team to support them in exploring how to use digital data, in particular on Twitter, for impact evaluations.</p>
-<p>Send me an email to get in touch: <a class="u-email" href="mailto:nicole.schwitter.1@warwick.ac.uk"><a href="mailto:nicole.schwitter.1@warwick.ac.uk">nicole.schwitter.1@warwick.ac.uk</a></a>.</p>
-
+                You can view my CV below or download it from
+                <a href="./cv/CV_Yalcin.pdf">here.</a>
+              </p>
             </div>
           </div>
-          
+
+          <div class="row">
+            <div class="col-md-12">
+              <iframe
+                src="./cv/CV_Yalcin.pdf"
+                width="100%"
+                height="800px"
+              ></iframe>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- FOOTER -->
+   <!-- FOOTER -->
 
     <footer class="footer mt-auto py-3 bg-white">
       <div class="container-fluid justify-content-center d-flex px-0">
@@ -95,7 +114,7 @@
               href="https://github.com/nschwitter"
             ></a>
             <a
-              class="fa-brands  fa-twitter"
+              class="fab fa-twitter px-2 link-dark text-decoration-none"
               href="https://twitter.com/nschwitter"
             ></a>
             <a

@@ -1,0 +1,14 @@
+/* for pages that don't have content to scroll down,
+prevent from re-positioning and messing with alignment.
+reference: https://stackoverflow.com/questions/1417934/how-to-prevent-scrollbar-from-repositioning-web-page */
+html {
+  overflow-y: scroll;
+}
+
+p {
+  font-size: medium;
+  text-align: justify;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  font-family: Lato, Roboto, Tahoma, sans-serif;
+}
